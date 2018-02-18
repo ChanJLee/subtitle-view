@@ -71,6 +71,7 @@ public class SubtitleView extends View {
 		mTextPaint = new TextPaint(Paint.ANTI_ALIAS_FLAG);
 		mTextPaint.setTextSize(textSize);
 		mTextPaint.setColor(textColor);
+		mTextPaint.setFakeBoldText(true);
 	}
 
 	public void render(CharSequence subtitle) {

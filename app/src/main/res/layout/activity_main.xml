@@ -21,6 +21,6 @@
         android:layout_weight="1"
         app:stroke_color="#000000"
         app:stroke_width="0.5"
-        app:text_color="#ffffff"
-        app:text_size="14dp"/>
+        app:text_color="#fefefe"
+        app:text_size="16dp"/>
 </LinearLayout>
