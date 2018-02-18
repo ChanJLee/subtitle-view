@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 		findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				subtitleView.render("1234abcABC苟利国家生死以，岂因祸福避趋之");
+				subtitleView.render("1234abcABC苟利国家生死以，岂因祸福避趋之毒又双叒叕");
 			}
 		});
 	}

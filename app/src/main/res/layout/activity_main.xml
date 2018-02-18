@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ffffff"
+    android:background="#fefefe"
     android:orientation="vertical"
     tools:context="com.chan.subtitleview.MainActivity">
 
@@ -20,7 +20,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         app:stroke_color="#000000"
-        app:stroke_width="0.5"
+        app:stroke_width="1"
         app:text_color="#fefefe"
         app:text_size="16dp"/>
 </LinearLayout>
